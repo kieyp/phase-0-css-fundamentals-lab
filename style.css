@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+#main-header{
+  text-align: center;
+}
+nav{
+  text-align: center;
+}
+img{
+
+display: block;margin:0 auto;
+}
+
+nav a {
+  padding: 10px;background-color:azure
+}
+
+figcaption {
+
+  text-align: center;font-size: smaller;
+}
+section p {
+  width: 800px;float;align-items: center;margin: 0 auto;line-height: 1.5;
+}
+
+#details
+div {
+
+float: left;background-color:aquamarine;text-align: center;width: 25%;
+}
